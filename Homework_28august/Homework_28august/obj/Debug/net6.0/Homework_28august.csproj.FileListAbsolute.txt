@@ -1,0 +1,14 @@
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\bin\Debug\net6.0\Homework_28august.exe
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\bin\Debug\net6.0\Homework_28august.deps.json
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\bin\Debug\net6.0\Homework_28august.runtimeconfig.json
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\bin\Debug\net6.0\Homework_28august.dll
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\bin\Debug\net6.0\Homework_28august.pdb
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.AssemblyInfoInputs.cache
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.AssemblyInfo.cs
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.csproj.CoreCompileInputs.cache
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.dll
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\refint\Homework_28august.dll
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.pdb
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\Homework_28august.genruntimeconfig.cache
+C:\Users\quliy\source\repos\Homework_28august\Homework_28august\obj\Debug\net6.0\ref\Homework_28august.dll
